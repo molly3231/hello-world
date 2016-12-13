@@ -1,9 +1,10 @@
 # hello-world
-Hello,
-I am a girl.
-I do have a name, but I do not want to say.
-I have some sisters!
-I live with my mom.
-I go to a public school!
-I am doing google codein, it is really fun!
-One of my sisters lives with my dad, and the other lives with my mom!
+ Hello,
+ I am a girl, and I do not want to say my name.
+ I am doing google code-in, I love working with google, and using the code-in!
+ My progress is doing very well in google code in!
+ Some facts about me:
+ My favroite food is spaghetti with corn mixed with mashed potatos!
+ My hobbies are sewing, taking photo of wildlife, and drawing!
+ I do not have any pets... although I want a dog!
+ This is all me!
